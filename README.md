@@ -4,6 +4,8 @@
  
  Netflix is widely recognized for its strong use of Data Science, Artificial Intelligence, and Machine Learning, especially in building powerful recommendation systems that understand user behavior and content trends.
 
+ ![image alt](https://github.com/banapuram-mahidhar/Netflix-Movies-Data-Analysis-Project/blob/b6effd3f168a59d025a7d03576f15fde193e0dea/NETFLIX_DAP.png)
+
 In this project, we analyze a dataset containing 9,000+ Netflix movies to extract meaningful insights that can help in data-driven business decision-making.
 The analysis focuses on genres, popularity, voting patterns, and release trends over the years.
 
