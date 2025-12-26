@@ -214,3 +214,32 @@ plt.show()
 4.Determined the year with the highest number of movie releases
 
 5.Visualized genre distribution and release trends
+
+## Visualizations
+
+1. Genre distribution count plots
+
+2. Movie release trends by year
+
+3. Popularity comparisons
+
+4. Vote average categorization
+
+ (Plots generated using Matplotlib and Seaborn)
+
+## Conclusion
+
+This project demonstrates how exploratory data analysis (EDA) can uncover valuable insights from large datasets.
+Such insights are crucial for:
+
+### *Content recommendation strategies
+
+### *Understanding audience preferences
+
+### *Strategic planning for future content production
+
+
+## Author
+
+Banapuram Mahidhar
+Aspiring Data Analyst | Python | SQL | Data Visualization
